@@ -1,4 +1,4 @@
-# DEPRECATED NODE, Visit > Preview Video Monitor repo
+# DEPRECATED NODE, Visit > [Preview Video Monitor](https://github.com/CrateTools/comfyui-preview-video-monitor) repo
 
 Preview Image Monitor - Multimonitor Fullscreen
 
